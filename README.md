@@ -55,8 +55,3 @@ Note: These are simulation observations. The design has not yet achieved exact 5
 - Add a suitable MOSFET gate driver.
 - Design a PCB using KiCad.
 - Build and test a hardware prototype.
-
-## Author
-Dinesh Kumar V
-
-Electrical and Electronics Engineering
